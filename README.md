@@ -10,4 +10,5 @@ Prepare and Import MySQL driver into your project
  2. log library for logging
  3. bcrypt for encrypting password
  4. html/template we used to parse the templates and passing data to the templates
+ 
  5.net/http to build our server
